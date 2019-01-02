@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-plugin-exclude",
+  "description": "exclude pages from gatsby",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:harryparkdotio/gatsby-plugin-exclude.git",
+  "author": "Harry Park <harry@harrypark.io>",
+  "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "exclude",
+    "remove",
+    "pages"
+  ],
+  "peerDependencies": {
+    "gatsby": ">2.0.0-alpha"
+  }
+}
