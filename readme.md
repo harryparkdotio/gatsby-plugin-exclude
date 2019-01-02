@@ -2,6 +2,11 @@
 
 exclude pages from gatsby
 
+[![Travis](https://img.shields.io/travis/com/harryparkdotio/gatsby-plugin-exclude/master.svg?style=for-the-badge)](https://travis-ci.com/harryparkdotio/gatsby-plugin-exclude)
+[![Codecov](https://img.shields.io/codecov/c/github/harryparkdotio/gatsby-plugin-exclude/master.svg?style=for-the-badge)](https://codecov.io/gh/harryparkdotio/gatsby-plugin-exclude)
+[![license](https://img.shields.io/github/license/harryparkdotio/gatsby-plugin-exclude.svg?style=for-the-badge)](https://github.com/harryparkdotio/gatsby-plugin-exclude/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/v/gatsby-plugin-exclude.svg?style=for-the-badge)](https://www.npmjs.com/package/gatsby-plugin-exclude)
+
 ## usage
 
 ### install
