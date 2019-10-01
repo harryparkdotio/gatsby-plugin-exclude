@@ -3,7 +3,7 @@
   "description": "exclude pages from gatsby",
   "version": "1.0.1",
   "main": "index.js",
-  "repository": "git@github.com:harryparkdotio/gatsby-plugin-exclude.git",
+  "repository": "https://github.com/harryparkdotio/gatsby-plugin-exclude.git",
   "author": "Harry Park <harry@harrypark.io>",
   "license": "MIT",
   "keywords": [
