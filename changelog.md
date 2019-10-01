@@ -1,3 +1,8 @@
+# v1.0.2 / 2019-10-01
+
+- chore(release): v1.0.2
+- fix: package.json repository (#2)
+
 # v1.0.1 / 2019-09-23
 
 - chore(release): v1.0.1

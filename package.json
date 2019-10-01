@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-exclude",
   "description": "exclude pages from gatsby",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "repository": "https://github.com/harryparkdotio/gatsby-plugin-exclude.git",
   "author": "Harry Park <harry@harrypark.io>",
